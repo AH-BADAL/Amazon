@@ -1,0 +1,81 @@
+*{
+  margin: 0%;
+}
+
+Body{
+  background:#E3E6E6;
+  font-family: tahoma;
+}
+main{
+  margin-left:80px;
+  margin-right: 80px;
+  background: #E3E6E6;
+}
+.container-one{
+  background-image: url(images/next_.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width:1500px;
+  height:550px;
+}
+.box-one{
+  gap: 10px;
+  background: white;
+  margin-top: -300px;
+}
+.content-four{
+  margin-right: 20px;
+}
+.box-one h2{
+  margin-left: 20px;
+  font-size: 20px;
+}
+.box-one img{
+  height: 300px;
+  width: 300px;
+  padding-top: 12px;
+  padding-right:20px;
+  border-radius: 5px;
+}
+.box-one p{
+  margin-left: 20px;
+  padding: 5px;
+  font-size: 15px;
+  color: rgb(58, 58, 87);
+  cursor: pointer;
+}
+.container-two{
+  display:flex;
+  gap: 15px;
+  margin-left: 13px;
+  box-sizing: border-box;
+  flex-wrap:wrap;
+  justify-content: center;
+}
+.container-two div{
+  background: #fff;
+  border-radius: 5px;
+  padding: 20px;
+  width: 300px;
+  height: 350px;
+} 
+
+.box-two{
+  margin-top: -300px;
+
+}
+.box-three{
+  margin-top: -300px;
+}
+.box-four{
+  margin-top: -300px;
+}
+.container-three{
+  background: white;
+  height: 300px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.container-three h2{
+ padding: 10px;
+}
